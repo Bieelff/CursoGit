@@ -2,4 +2,4 @@
 
 ![alt text](./starwars.png)
 
-Este repostório serve de exeplo par ao curso de Git e GitHub
+Este repostório serve de exemplo para o curso de Git e GitHub
