@@ -43,3 +43,20 @@ git checkout master
 
 reverter o que foi feito no commit x
 git revert <commit>
+
+criar uma nova branch
+git branch <nome>
+
+excluir branch
+git branch -d <nome>
+
+mudar a branch
+git checkout <branch>
+
+aplicar os commits de uma branch na branch atual
+git merge <brench>
+
+git rebase <brench>
+
+
+
